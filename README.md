@@ -1,2 +1,2 @@
-# SIFT
-Accelerating SIFT Image Feature Extraction Algorithm with Mixed-Signal Processing Architecture
+# MSP-SIFT
+MSP-SIFT: Accelerating SIFT Image Feature Extraction Algorithm with Mixed-Signal Processing Architecture
